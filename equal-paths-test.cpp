@@ -1,4 +1,4 @@
-#include <iostream>
+t#include <iostream>
 #include <cstdlib>
 #include "equal-paths.h"
 using namespace std;
