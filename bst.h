@@ -357,9 +357,6 @@ BinarySearchTree<Key, Value>::iterator::operator++()
   return *this;
 }
 
-
-
-
 /*
 -------------------------------------------------------------
 End implementations for the BinarySearchTree::iterator class.
